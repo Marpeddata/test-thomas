@@ -51,6 +51,7 @@ public class DemoResource {
         }
     }
 
+
     @GET
     @Produces(MediaType.APPLICATION_JSON)
     @Path("user")
