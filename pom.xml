@@ -3,11 +3,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>dotwhat.dk</groupId>
-    <artifactId>test</artifactId>
+    <artifactId>anotherone</artifactId>
     <version>1.0.1</version>
     <packaging>war</packaging>
 
-    <name>test</name>
+    <name>anotherone</name>
 
     <properties>
         <endorsed.dir>${project.build.directory}/endorsed</endorsed.dir>
